@@ -15,10 +15,7 @@ export default class UserModel extends BaseModel {
         this.firstName = props.firstName
         this.lastName = props.lastName
         this.isVerified = props.isVerified
-        console.log(props.password)
-
         this.password = hasher.hashSync(props.password, salt)
-
     }
 
 }

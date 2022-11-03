@@ -7,7 +7,7 @@ export default async function authMW({ req, res }: RequestContext, requireAdmin 
     try {
         const sessionCookie = req.cookies['session_cookie']
         const user = await client({
-            path: `${process.env.DEPLOY_URL}/users/myself`,
+            path: `${process.env.DEPLOY_URL || 'http://localhost:3000'}/users/myself`,
             headers: {
                 'Content-Type': 'application/json',
                 cookie: `session_cookie=${sessionCookie}`

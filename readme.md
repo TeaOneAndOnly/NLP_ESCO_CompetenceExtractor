@@ -43,7 +43,7 @@ Follow these steps to start the web app
 ```3.) npm run dev```
 
 
-The first time the server starts up two users and some other tables are created. The initialization can take up to **2 min** (just the first time in order to create the esco skills). Just be patient and do not interrupt the process. If you accidentially stop the process just restart the process by deleting the files in backend/db (except init) and run npm run dev again.
+The first time the server starts up two users and some other tables are created. The initialization can take up to **5 min** (just the first time in order to create the esco skills). Just be patient and do not interrupt the process or **do not** save any files while waiting till you get the message: ```> Ready on http://localhost:3000 ```. If you accidentially stop the process just restart the process by deleting the files in backend/db (except init) and run npm run dev again.
 
 The Admin can insert job postings while the User can view job postings based on filter criterias.
 
