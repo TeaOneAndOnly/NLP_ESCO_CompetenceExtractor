@@ -1,0 +1,35 @@
+Position: Cloud Infrastructure Engineer, Telco (English, German)
+##
+
+Minimum qualifications:
+
+- Bachelor's degree in Computer Science, Mathematics, related technical field, or equivalent practical experience.
+- Experience designing, building, and deploying cloud-based solution architectures.
+- Experience in writing software in one uages (e.g., Java, Python, Go, JavaScript, C++, or similar).
+
+- Ability to speak and write in English and German fluently.
+
+## Preferred qualifications:
+
+- Experience working with and managing external partners and customers.
+- Experience automating infrastructure provisioning, Dev Ops, and continuous integration/delivery.
+- Experience communicating technical concepts to audiences.
+- Knowledge of containerization and container orchestration technologies such as Google Kubernetes Engine (GKE).
+- Familiarity with standard IT security practices such as identity and access management, data protection, encryption, certificate and key management.
+
+## About the job
+
+As a Cloud Infrastructure Engineer, you will provide technical guidance to clients adopting Google Cloud Platform services. You'll provide best practices on secure foundational cloud implementations, automated provisioning of infrastructure and applications, cloud-ready application architectures, and more. Additionally, you'll guide users to help them receive the best of what Google Cloud Platform (GCP) can offer, while ensuring they have the best experience in migrating, building, modernizing, and maintaining applications in Google Cloud Platform.
+
+Google Cloud accelerates organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+##
+
+Responsibilities
+
+- Work with customers to design Cloud-based technical architectures, migration approaches, and application optimizations that enable business objectives.
+- Be a technical advisor and perform troubleshooting to resolve technical challenges for customers.
+- Create and deliver best practices recommendations, tutorials, blog articles, and sample code.
+- Travel 30% of the time as required.
+
+A person with disabilities will be given preferential consideration per local regulations

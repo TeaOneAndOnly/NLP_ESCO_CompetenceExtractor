@@ -1,0 +1,32 @@
+{
+  "name": "Competence_Extractor",
+  "version": "1.0.0",
+  "description": "- python3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-AnhHTW/NLP-ESCO-CompetencyExtractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-AnhHTW/NLP-ESCO-CompetencyExtractor/issues"
+  },
+  "homepage": "https://github.com/The-AnhHTW/NLP-ESCO-CompetencyExtractor#readme",
+  "dependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/cryptr": "^4.0.1",
+    "@types/nodemailer": "^6.4.6",
+    "axios": "^0.27.2",
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.7.2",
+    "cryptr": "^6.0.3",
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "nodemailer": "^6.8.0"
+  }
+}
