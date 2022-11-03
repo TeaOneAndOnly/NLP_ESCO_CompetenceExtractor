@@ -1,6 +1,6 @@
 
 
-# Caution!
+### Caution!
 
 Only tested on unix (mac) and not on windows. May not work on windows. 
 
@@ -53,8 +53,8 @@ Credentials for User:
 
 Credentials for Admin:
 
-###### ADMIN
-###### 12345
+##### ADMIN
+##### 12345
 
 
 There's no need to setup a database, since a file based persistence is chosen. Under the folder 
